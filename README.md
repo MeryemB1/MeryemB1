@@ -1,10 +1,10 @@
 ### Hi there 👋
 
  my name is Karim Meryem
- #### Design and devlopment 
+ #### Data science and web development 
  - 👩‍🎓 currently a Data science student 
  - designer and passionate with ui/ux 👩‍🎨
- - 👩‍💻 web devloper 
+ - 👩‍💻 web developer 
  - i do some stuff for fun ✨  
  - <h3>you can find me on Behance <a href="https://www.behance.net/meryembkarim"> here!</a></h3>
  <h3 align="left">Languages and Tools:</h3>
