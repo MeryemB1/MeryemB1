@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My name is Karim Meryem  
-#### AI Engineer | Data Scientist | Former UI/UX Designer  
+#### AI Engineer | Data Scientist | neuromorph
 - 🎓 Graduate specialized in Artificial Intelligence and Data Science  
-- 🤖 Passionate about AI research, computer vision, and biomedical imaging  
+- 🤖 Passionate about AI research, computer vision, and bio inspired ai 
 - 💻 Experienced in Python, deep learning frameworks (PyTorch, TensorFlow), and web development  
 - ✨ Always eager to learn and explore new technologies  
 
