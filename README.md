@@ -3,7 +3,7 @@
 My name is Karim Meryem  
 #### AI Engineer | Data Scientist | neuromorph
 - 🎓 Graduate specialized in Artificial Intelligence and Data Science  
-- 🤖 Passionate about AI research, computer vision, and bio inspired ai 
+- 🤖 Passionate about AI research,SNNs, and neuromorphic computing 
 - 💻 Experienced in Python, deep learning frameworks (PyTorch, TensorFlow), and web development  
 - ✨ Always eager to learn and explore new technologies  
 
