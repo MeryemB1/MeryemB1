@@ -7,7 +7,6 @@ My name is Karim Meryem
 - 💻 Experienced in Python, deep learning frameworks (PyTorch, TensorFlow), and web development  
 - ✨ Always eager to learn and explore new technologies  
 
-You can find some of my design work on [Behance](https://www.behance.net/meryembkarim)
 
 #### Languages and Tools:
 <p align="left">
